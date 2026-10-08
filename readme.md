@@ -62,6 +62,7 @@
 - [FourYou](https://apps.apple.com/app/id1671616134) - Audio journal iOS app.
 - [Jojo Transcribe](https://apps.apple.com/app/id1659864300) - Audio transcription macOS app.
 - [Buzz](https://github.com/chidiwilliams/Buzz) - Audio transcription and translation macOS app.
+- [DictaFlow](https://dictaflow.io) - Hold-to-talk dictation for macOS, Windows, iOS, and Android, with local Whisper processing and optional cloud cleanup. (Freemium)
 - [WhisperScript](https://store.getwavery.com/l/whisperscript) - Audio transcription macOS app. (Freemium · Electron)
 - [Audio Podium](https://apps.apple.com/app/id6449008295) - Audio/video management macOS app.
 - [superwhisper](https://superwhisper.com) - Global audio transcription macOS menu bar app.
